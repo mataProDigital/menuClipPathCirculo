@@ -22,7 +22,7 @@ body {
   padding: 90px;
   background-color: #d1ccd1;
   text-align: center;
-  border-radius: 30px;
+  border-radius: 50% 20% / 10% 40%;
 }
 
 .titulo {
